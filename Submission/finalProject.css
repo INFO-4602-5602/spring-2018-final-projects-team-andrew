@@ -1,0 +1,164 @@
+body {
+    font-family: Helvetica;
+    font-size: 12px;
+}
+
+#PageTitle {
+    width: 90%;
+    margin: auto;
+    text-align: center;
+    border-style: solid;
+    border-width: 6px;
+    border-color: #000;
+    font-size: 28pt;
+    color: #000;
+}
+
+#HintonQuote {
+    width: 90%;
+    margin: auto;
+    text-align: center;
+    font-size: 20pt;
+    font-style: oblique;
+    color: #000;
+}
+
+.WelcomeParagraph {
+    font-style: oblique;
+    font-size: 16pt;
+    width: 60%;
+    margin: auto;
+}
+
+.SubTitles {
+    font-weight: bold;
+    width: 90%;
+    margin: auto;
+    font-size: 20pt;
+}
+
+.IntroParagraph {
+    width: 90%;
+    margin: auto;
+    font-size: 14pt;
+}
+
+.ExampleHeader {
+    font-style: oblique;
+    width: 75%;
+    margin: auto;
+    font-size: 16pt;
+}
+
+.Example {
+    width: 75%;
+    margin: auto;
+    font-size: 14pt;
+}
+
+.BibItem {
+    width: 90%;
+    margin: auto;
+    font-size: 10pt;
+}
+
+#ZonotopeTools {
+    text-align: center;
+    width: 75%;
+    margin: auto;
+    font-size: 14pt;
+}
+
+#ZonotopePlots {
+    text-align: center;
+    width: 75%;
+    margin: auto;
+}
+
+#ZonotopeAPlots {
+    text-align: center;
+    width: 75%;
+    margin: auto;
+}
+
+#activeSubspacesTools {
+    text-align: center;
+    width: 75%;
+    margin: auto;
+    font-size: 14pt;
+}
+
+#activeSubspaces {
+    text-align: center;
+    width: 75%;
+    margin: auto;
+}
+
+#activeSubspacesAPlots {
+    text-align: center;
+    width: 75%;
+    margin: auto;
+}
+
+.centerImage {
+    margin: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
+.line {
+    fill: none;
+    stroke: #565A5C;
+    stroke-width: 3;
+    shape-rendering: crispEdges;
+}
+
+.point {
+    fill: #000; 
+    stroke: #000;
+    stroke-width: 1;
+}
+
+.OuterZonoPoint {
+    fill: #000; 
+    stroke: #000;
+    stroke-width: 2;
+}
+
+.InnerZonoPoint {
+    fill: #A2A4A3;
+    stroke: #000;
+    stroke-width: 2;
+}
+
+.InnerZonoPointHidden {
+    fill: #A2A4A3;
+    stroke: #A2A4A3;
+    stroke-width: 2;
+}
+
+.Zonotope {
+    fill: #A2A4A3; 
+    stroke: #000;
+    stroke-width: 2;
+}
+
+.OneDShadowPlot {
+    fill: #5776ff; 
+    stroke: #000;
+    stroke-width: 1;
+}
+
+.TwoDShadowPlot {
+    stroke: #000;
+    stroke-width: 1;
+}
+
+.label {
+    text-anchor: middle;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+}
