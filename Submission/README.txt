@@ -22,3 +22,5 @@ python -m http.server			--> if you are using Python version 3.X
 localhost:8000/finalProject.html
 
 into your address bar
+
+NOTE: I've had some issues with scaling images for various machines so you may need to zoom in/out to see the figures well.
